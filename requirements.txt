@@ -1,0 +1,9 @@
+**Contents of `requirements.txt`**:
+```
+pytube
+facebook-scraper
+instaloader
+tweepy
+tiktokapi
+requests
+```
