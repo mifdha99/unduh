@@ -1,4 +1,4 @@
-```python
+python
 import os
 import subprocess
 import requests
@@ -88,4 +88,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
